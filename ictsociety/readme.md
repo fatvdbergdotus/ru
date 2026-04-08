@@ -1,4 +1,4 @@
-This folder contains ten papers about ICT and Ethics, as follows:
+This folder contains ten papers about ICT and Ethics written by me (Freek van den Berg), as follows:
 - [ict1-assignment1-techutopia.md](ict1-assignment1-techutopia.md) My view on the Technological Utopianism
 - [ict1-assignment2-casestudyaboutprivacy.md](ict1-assignment2-casestudyaboutprivacy.md)  Case study about privacy
 - [ict1-assignment3-ictsinpoliticalcontext.md](ict1-assignment3-ictsinpoliticalcontext.md)  ICTs in a political context
