@@ -1,4 +1,4 @@
-(ict1-assignment1-techutopia.md)[ict1-assignment1-techutopia.md]
+[ict1-assignment1-techutopia.md](ict1-assignment1-techutopia.md)
 ict1-assignment2-casestudyaboutprivacy.md
 ict1-assignment3-ictsinpoliticalcontext.md
 ict1-assignment4-ownershipofdigitaldata.md
