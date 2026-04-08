@@ -1,11 +1,11 @@
 This folder contains ten papers about ICT and Ethics, as follows:
-- [ict1-assignment1-techutopia.md](ict1-assignment1-techutopia.md)
-- [ict1-assignment2-casestudyaboutprivacy.md](ict1-assignment2-casestudyaboutprivacy.md)
-- [ict1-assignment3-ictsinpoliticalcontext.md](ict1-assignment3-ictsinpoliticalcontext.md)
-- [ict1-assignment4-ownershipofdigitaldata.md](ict1-assignment4-ownershipofdigitaldata.md)
-- [ict1-assignment5-ictandcultureintegration.md](ict1-assignment5-ictandcultureintegration.md)
-- [ict2-assignment1-onlineidentity.md](ict2-assignment1-onlineidentity.md)
-- [ict2-assignment2-paperanalysishackers.md](ict2-assignment2-paperanalysishackers.md)
-- [ict2-assignment3-theethicaladvisor.md](ict2-assignment3-theethicaladvisor.md)
-- [ict2-assignment4-mindbody.md](ict2-assignment4-mindbody.md)
-- [ict2-assignment5-ictandsocialorder.md](ict2-assignment5-ictandsocialorder.md)
+- [ict1-assignment1-techutopia.md](ict1-assignment1-techutopia.md) My view on the Technological Utopianism
+- [ict1-assignment2-casestudyaboutprivacy.md](ict1-assignment2-casestudyaboutprivacy.md)  Case study about privacy
+- [ict1-assignment3-ictsinpoliticalcontext.md](ict1-assignment3-ictsinpoliticalcontext.md)  ICTs in a political context
+- [ict1-assignment4-ownershipofdigitaldata.md](ict1-assignment4-ownershipofdigitaldata.md) Ownership of digital data
+- [ict1-assignment5-ictandcultureintegration.md](ict1-assignment5-ictandcultureintegration.md)  ICT and Culture integration
+- [ict2-assignment1-onlineidentity.md](ict2-assignment1-onlineidentity.md) Online identity 
+- [ict2-assignment2-paperanalysishackers.md](ict2-assignment2-paperanalysishackers.md) Hackers
+- [ict2-assignment3-theethicaladvisor.md](ict2-assignment3-theethicaladvisor.md) The ethical advisor
+- [ict2-assignment4-mindbody.md](ict2-assignment4-mindbody.md)  Mind-Body
+- [ict2-assignment5-ictandsocialorder.md](ict2-assignment5-ictandsocialorder.md)  ICT and social order
