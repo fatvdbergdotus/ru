@@ -1,5 +1,5 @@
-* ICT & Society
-** Technological Utopia
+# ICT & Society
+## Technological Utopia
 
 Freek van den Berg s0517593
 
