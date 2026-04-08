@@ -1,10 +1,11 @@
-[ict1-assignment1-techutopia.md](ict1-assignment1-techutopia.md)
-ict1-assignment2-casestudyaboutprivacy.md
-ict1-assignment3-ictsinpoliticalcontext.md
-ict1-assignment4-ownershipofdigitaldata.md
-ict1-assignment5-ictandcultureintegration.md
-ict2-assignment1-onlineidentity.md
-ict2-assignment2-paperanalysishackers.md
-ict2-assignment3-theethicaladvisor.md
-ict2-assignment4-mindbody.md
-ict2-assignment5-ictandsocialorder.md
+This folder contains ten papers about ICT and Ethics, as follows:
+- [ict1-assignment1-techutopia.md](ict1-assignment1-techutopia.md)
+- [ict1-assignment2-casestudyaboutprivacy.md](ict1-assignment2-casestudyaboutprivacy.md)
+- [ict1-assignment3-ictsinpoliticalcontext.md](ict1-assignment3-ictsinpoliticalcontext.md)
+- [ict1-assignment4-ownershipofdigitaldata.md](ict1-assignment4-ownershipofdigitaldata.md)
+- [ict1-assignment5-ictandcultureintegration.md](ict1-assignment5-ictandcultureintegration.md)
+- [ict2-assignment1-onlineidentity.md](ict2-assignment1-onlineidentity.md)
+- [ict2-assignment2-paperanalysishackers.md](ict2-assignment2-paperanalysishackers.md)
+- [ict2-assignment3-theethicaladvisor.md](ict2-assignment3-theethicaladvisor.md)
+- [ict2-assignment4-mindbody.md](ict2-assignment4-mindbody.md)
+- [ict2-assignment5-ictandsocialorder.md](ict2-assignment5-ictandsocialorder.md)
