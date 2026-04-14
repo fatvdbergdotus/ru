@@ -1,3 +1,4 @@
+# Ethics and Philosophy
 This folder contains eleven papers that were written by me (Freek van den Berg) for three courses at Radboud University Nijmegen.
 
 For ICT and Society 1:
