@@ -35,10 +35,97 @@ Blu-ray is more and more commonly used to store video in even higher quality tha
 
 ---
 
+# Using the Full Potential of Blu-ray
+
+In order to use Blu-ray optimally some conditions have to be created. As can be seen in the previous chapter, the ability to store a lot of information for a low price is what matters here.
+
+Since Blu-ray is clearly an improvement of DVD with respect to storage capacity, only the price issue matters in the long run.
+
+This means that when one wants to use Blu-ray's full potential, a lot of drives to play the discs need to be sold first. For computers this is already happening right now by Blu-ray becoming more and more the standard in newly sold computers.
+
+Another aspect is what one can do with the extra storage of Blu-ray compared to DVD and CD. It is needed to find new applications for the extra storage such as high-quality video.
+
+---
+
+# Blu-ray Being High-Tech
+
+Mohr’s framework is used to determine whether Blu-ray qualifies as a high-technology product.
+
+| Aspect | Application on Blu-ray |
+|---|---|
+| Market uncertainty | It is not completely clear for what purposes Blu-ray will be used in the future besides video and what future demands for information storage will look like. |
+| Technological uncertainty | It is unclear whether alternatives such as portable hard disks, USB sticks and faster internet connections will make the product obsolete. |
+| Competitive volatility | It is unclear what products are going to compete with Blu-ray in the future, although the battle with HD DVD has been won. |
+
+Blu-ray can therefore be considered a high-tech product, although it is already somewhat established.
+
+---
+
+# Stakeholders and Their Relevance
+
+The following stakeholders can be identified with respect to Blu-ray technology:
+
+| Stakeholder | Description |
+|---|---|
+| Consumer electronics producers | Produce video and audio playing devices as well as recordable discs. Successful Blu-ray adoption leads to more product sales. |
+| Motion picture companies | Need a cheap and efficient way to deliver motion pictures to consumers in high quality. |
+| Computer hardware producers | Want to offer better storage solutions than DVD drives and improve overall computer capabilities. |
+
+Additional indirect stakeholders include game producers and data warehouses.
+
+---
+
+# Effect of Stakeholders on the Technology
+
+Stakeholders influence the final product in different ways:
+
+| Stakeholder | Effect |
+|---|---|
+| Consumer electronics producers | Want the technology to be easy to use, portable, and cheap to produce. |
+| Motion picture companies | Need enough capacity for high-quality movies and portability for retail and rental distribution. |
+| Computer hardware producers | Want notebook compatibility, backwards compatibility, and versatility for audio, video, and data. |
+
+These requirements resulted in Blu-ray being portable, cheap, and backwards compatible, but also relatively sensitive to scratches and slower than hard drives.
+
+---
+
+# Blu-ray Being a Standard
+
+## Pros
+
+| Pros |
+|---|
+| Blu-ray won the standard battle against HD DVD |
+| More movie titles are becoming available on Blu-ray |
+| Many laptops and computers include Blu-ray drives |
+| Blu-ray is backwards compatible with DVD and CD |
+| Blu-ray offers advantages over DVD and CD |
+| Prices are becoming more competitive |
+
+## Cons
+
+| Cons |
+|---|
+| Increasing internet bandwidth provides alternatives for data distribution |
+| USB sticks and hard drives are rapidly increasing in capacity |
+| Future scientific breakthroughs may replace Blu-ray technology |
+
+Although Blu-ray has many advantages, future technological breakthroughs may still change the market.
+
+---
+
 # Conclusion
 
 Considering the strategy and marketing of Blu-ray, several aspects of Blu-ray have been taken into account.
 
 Blu-ray is a consequence of CD and DVD technology and successfully outcompeted HD DVD technology. Its future depends on adoption, pricing, and the development of applications requiring large storage capacity.
+
+Three major stakeholders are directly involved:
+
+- Consumer electronics producers
+- Motion picture companies
+- Computer hardware producers
+
+Their requirements resulted in Blu-ray being portable, cheap, backwards compatible, and capable of storing large amounts of data.
 
 At the same time, alternative storage technologies and internet distribution remain strong competitors.
