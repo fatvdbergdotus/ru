@@ -1,3 +1,8 @@
+## Assignments
+[all_assignments.pdf](all_assignments.pdf)
+
+## Papers
+Below are the papers to be read to complete the assignments.
 
 #### [Recollection and Familiarity in Dense Hippocampal Amnesia: A Case Study](article8b.pdf)
 
