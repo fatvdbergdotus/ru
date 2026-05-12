@@ -30,22 +30,7 @@ For the conceptual language, the formal language ORM (Object Role Modeling) [2] 
 
 After reading the paper, the following taxonomy could be defined:
 
-```text
-Environmental Information
-├── General Environmental Information
-└── Industry-Specific Information
-
-Management
-├── Gathering
-├── Sharing
-│   └── Cross-functional Integration
-│       ├── Personal Interaction
-│       └── Impersonal Interaction
-└── Using
-    └── Decision Making
-
-Innovation Performance
-```
+![Conceptual Model](assignment2_conceptual_model.png)
 
 The above conceptual model shows the two main concepts: **environmental information** and **innovation performance**.
 
