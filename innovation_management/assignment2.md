@@ -197,9 +197,7 @@ However, an explanation about why general information has no effect is lacking.
 
 The findings can relatively directly be translated into consequences for three aspects:
 
-1. Input (gathering)
-2. Process (sharing)
-3. Output (using / decision making)
+![Practical Use](assignment2_practical_use.png)
 
 ### Input
 
