@@ -1,4 +1,4 @@
-# Languages and Machines: Practical Paper about Sokoban
+# Languages and Automata: Practical Paper about Sokoban
 
 **Freek van den Berg**  
 S0517593  
@@ -6,7 +6,7 @@ January 8th, 2008
 
 ## Introduction
 
-For the course Languages and Machines at the Radboud University Nijmegen, a practical example has been chosen by me in which the theory learned in the course is applied on a practical situation. I've chosen to describe Sokoban as a language decision problem, after which the grammar can be derived from a Sokoban level. First I'll explain something about Sokoban briefly, after which the theory learned in the course will be directly linked to Sokoban in several ways.
+For the course Languages and Automata at the Radboud University Nijmegen, a practical example has been chosen by me in which the theory learned in the course is applied on a practical situation. I've chosen to describe Sokoban as a language decision problem, after which the grammar can be derived from a Sokoban level. First I'll explain something about Sokoban briefly, after which the theory learned in the course will be directly linked to Sokoban in several ways.
 
 ## What is Sokoban?
 
