@@ -1,5 +1,3 @@
-# Assignment 1
-
 # Freek van den Berg s0517593
 
 # Innovation Management: Homework Assignment 2
