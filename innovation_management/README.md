@@ -14,4 +14,6 @@ See [assignment 2](assignment2.md)
 
 ## Assignment 3
 
+This document examines how teamwork influences idea generation and innovation performance through a literature study of three scientific papers. It highlights the importance of attention and feedback among team members, anonymity in idea sharing to ensure equal participation, and the SECI knowledge creation model, which emphasizes collaboration between people with diverse backgrounds. Based on these findings, the report proposes measurable metrics such as attention level, reflection level, equality in participation, SECI-related processes, and cross-functional team composition to evaluate innovative teamwork. The paper concludes with managerial recommendations, including creating diverse teams, encouraging both practical and theoretical collaboration, establishing formal feedback procedures, and ensuring equal treatment of all contributors to maximize idea generation and innovation outcomes.
+
 See [assignment 3](assignment3.md)
