@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Languages and Automata: Practical Paper about Sokoban
 
 **Freek van den Berg**  

@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Strategy and Marketing: Homework Assignment – 20 October 2009
 ## Developing Strategies
 

@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Strategy and marketing course
 Below it shows three assignments made by Freek van den Berg for the course Strategy and Marketing in the context of the Computer Science Master.
 

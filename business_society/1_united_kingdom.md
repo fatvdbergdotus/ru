@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 Freek van den Berg s0517593
 # Business and society: Country essay United Kingdom
 September 18th, 2009

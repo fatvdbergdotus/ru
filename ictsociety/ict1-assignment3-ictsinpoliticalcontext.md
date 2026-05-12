@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 Freek van den Berg
 s0517593
 # ICT and Society

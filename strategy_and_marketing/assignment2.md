@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Strategy and Marketing: Homework Assignment 2
 
 **Freek van den Berg s0517593**  

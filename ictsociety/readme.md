@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Ethics and Philosophy
 This folder contains eleven papers that were written by me (Freek van den Berg) for three courses at Radboud University Nijmegen.
 

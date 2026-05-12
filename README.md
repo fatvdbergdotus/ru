@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Radboud University Nijmegen
 The generated content during my education is distributed over different folder, as follows.
 - [Business and society](business_society/readme.md)

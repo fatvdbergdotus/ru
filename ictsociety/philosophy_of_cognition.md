@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 Can deterministic systems produce behavior that seems autonomous to humans?		
 Version 2 beta
 
