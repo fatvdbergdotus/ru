@@ -2,6 +2,7 @@
 
 ## Assignment 1
 
+The document analyzes and compares the innovativeness of four automotive companies—Toyota, Daimler, Ford, and General Motors—and four banking companies—Rabobank, ABN AMRO, Fortis Bank, and Fortis—using profitability, innovation type, and company communications as indicators of innovation. The author evaluates factors such as profit per employee, technological advancements, sustainability initiatives, and whether companies demonstrate functional improvements, widespread adoption, future-oriented innovation, or reliance on past success. In the automotive sector, Toyota is ranked most innovative due to its leadership in hybrid technology and fuel efficiency, followed by Daimler, Ford, and GM. In the banking sector, Rabobank is considered most innovative because of its sustainability-focused approach, followed by ABN AMRO, Fortis Bank, and Fortis, which performed poorly financially during the banking crisis. Overall, the report concludes that successful innovation combines financial performance with meaningful technological or organizational improvements.
 
 See [assignment 1](assignment1.md)
 
