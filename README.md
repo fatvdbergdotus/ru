@@ -7,5 +7,6 @@ The generated content during my education is distributed over different folder, 
 - [Innovation Management](innovation_management/README.md)
 - [Knowledge Management](knowledge_management/tutorial.md)
 - [Languages and Automata](languages_and_automata/assignment.md)
+- [Man Machine Interaction](man_machine_interaction.pdf)
 - [Memory](memory/README.md)
 - [Strategy and marketing](strategy_and_marketing/README.md)
