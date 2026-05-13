@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Innovation Management: Homework Assignment 3
 ## Managing External Information for Innovation Performance Purposes
 

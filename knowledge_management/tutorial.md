@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 ## Freek van den Berg s0517593: Knowledge Management Tutorial 1
 
 This report is written for the subject Knowledge Management at the Radboud University Nijmegen, The Netherlands. The paper 'Knowledge makes a difference: knowledge as strategic capability' by Michael Zack from 1999 is being analyzed and discussed here. First the objectives of the paper will be discussed, followed by the research path and key elements of the argument, concluded by the relevance of the paper both to society as well as science. Every just mentioned aspect will be dealt with from the writer's view as well as my personal critical assessment on it.
