@@ -1,7 +1,8 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
 # Radboud University Nijmegen
-The generated content during my education is distributed over different folder, as follows.
+
+This repository contains content created and collected during my studies at Radboud University (RU). It serves as a personal knowledge base of assignments, research, notes, projects, and learning materials developed throughout my academic journey. The repository documents both theoretical concepts and practical experiences, providing a structured overview of the knowledge, skills, and insights gained across different courses and study activities, as follows.
 - [Business and society](business_society/readme.md)
 - [ICT and society 1 and 2, and Philosophy of Cognition](ictsociety/readme.md)
 - [Innovation Management](innovation_management/README.md)
