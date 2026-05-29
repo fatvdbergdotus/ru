@@ -4,7 +4,7 @@
 [all_assignments.pdf](all_assignments.pdf)
 
 ## Papers
-Below are the papers to be read to complete the assignments.
+The paper below, which needed to be read to finish the assignments, explore a wide range of topics in cognitive psychology and neuroscience, including memory, learning, perception, fear conditioning, and autism. Together, they demonstrate how different brain structures contribute to distinct cognitive functions, such as recollection, familiarity, procedural learning, and working memory. Several studies highlight the complexity of learning and memory processes, showing how imagination can create false memories, how fear responses can persist despite extinction, and how humans use causal reasoning beyond simple associations. Other papers investigate neurological disorders and brain damage, revealing how specific impairments affect object recognition, memory systems, and learning abilities. Overall, the collection emphasizes the interaction between brain mechanisms and cognitive processes in shaping human behavior and experience.
 
 #### [Recollection and Familiarity in Dense Hippocampal Amnesia: A Case Study](article8b.pdf)
 
