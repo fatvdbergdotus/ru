@@ -3,6 +3,6 @@
 # Business and Society
 The course business and society addresses the following four different countries that have been successful during the industrial revoluation, each in their own way.
 - [1. United kingdom](1_united_kingdom.md) The United Kingdom played a key role in the development of modern capitalism through industrialization, free trade, and strong legal protection of private property and contracts. Economic growth was driven by organized labor, technological innovation, and international trade, while trade unions and labor reforms helped improve working conditions. As a result, the UK developed a largely capitalist economy balanced with moderate social protections.
-- [2. Germany](2_germany.md)
+- [2. Germany](2_germany.md) Germany's economy developed later than that of other industrialized nations but quickly became highly advanced through strong investments in education, science, banking, and industry. Government involvement, protected domestic markets, and close cooperation between banks and businesses helped create large, innovative companies focused primarily on the domestic market. Examples such as Thyssen and Deutsche Bank illustrate how skilled labor, technological innovation, and financial institutions shaped Germany's economic system, resulting in a strong industrial economy with significant government influence.
 - [3. United States](3_united_states.md)
 - [4. Japan](4_japan.md)
